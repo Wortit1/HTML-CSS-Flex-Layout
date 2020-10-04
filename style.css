@@ -1,81 +1,79 @@
 * {
-    padding: 0;
-    margin: 0;
-    font-family: "Arial Unicode MS", sans-serif;
+  padding: 0;
+  margin: 0;
+  font-family: "Arial Unicode MS", sans-serif;
 }
 
 .header {
-    background-color: rgb(243, 182, 49);
-    text-align: center;
-    color: white;
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    font-weight: 10;
-    width: 100%;
-    justify-content: center;
-    text-decoration: none;
-    font-family: "Calibri Light", sans-serif;
+  background-color: rgb(243, 182, 49);
+  text-align: center;
+  color: white;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  font-weight: 10;
+  width: 100%;
+  justify-content: center;
+  text-decoration: none;
+  font-family: "Calibri Light", sans-serif;
 }
 
 #main {
-    display: flex;
-    width: 100%;
-    border-width: 100px;
-    border-color: white;
-    background-color: white;
+  display: flex;
+  width: 100%;
+  border-width: 100px;
+  border-color: white;
+  background-color: white;
 
-    padding-top: 5px;
-    padding-bottom: 5px;
-    height: 400px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 400px;
 }
 
 .nav {
-    border: white;
-    border-width: 10em;
-    width: 100%;
-    background-color: rgb(61, 61, 1);
-    color: white;
-    padding-top: 15px;
-    padding-left: 20px;
+  border: white;
+  border-width: 10em;
+  width: 100%;
+  background-color: rgb(61, 61, 1);
+  color: white;
+  padding-top: 15px;
+  padding-left: 20px;
 }
 
 .para {
-    color: white;
-    background-color: rgb(114, 124, 94);
-    text-decoration: none;
-    display: flex;
-    padding-right: 35px;
-    padding-left: 35px;
-    padding-top: 15px;
-    padding-bottom: 30px;
-    border-right: 55px;
-    border-left: 55px;
-    justify-content: center;
-    justify-content: space-evenly;
-
+  color: white;
+  background-color: rgb(114, 124, 94);
+  text-decoration: none;
+  display: flex;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  border-right: 55px;
+  border-left: 55px;
+  justify-content: center;
+  justify-content: space-evenly;
 }
 
 #blank {
-    width: 50px;
-    background-color: white;
-
+  width: 50px;
+  background-color: white;
 }
 
 p {
-    display: block;
-    font-size: medium;
-    padding-bottom: 20px;
+  display: block;
+  font-size: medium;
+  padding-bottom: 20px;
 }
 
 #footer {
-    background-color: rgb(247, 172, 11);
-    color: white;
-    height: 90px;
-    display: flex;
-    flex-direction: column;
-    font-style: "Times New Roman";
-    font-weight: 25;
-    padding-top: 15px;
-    padding-left: 20px;
+  background-color: rgb(247, 172, 11);
+  color: white;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  font-style: "Times New Roman";
+  font-weight: 25;
+  padding-top: 15px;
+  padding-left: 20px;
 }
